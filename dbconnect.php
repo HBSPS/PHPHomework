@@ -1,5 +1,4 @@
 <?php
-
     // MySQL 연결
     $host = 'localhost';
     $user = 'root';

@@ -1,6 +1,6 @@
 <?php
     include './dbconnect.php';
-    // Form에서 정보 받아오기
+    // Form에서 정보 받아오기 
     $kor_name = $_POST['kor_name'];
     $eng_name = $_POST['eng_name'];
     $birth = $_POST['birth'];
